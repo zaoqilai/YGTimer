@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YGTimer_Tests' do
+  pod 'YGTimer', :path => '../'
+  
+  
+end
