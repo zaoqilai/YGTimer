@@ -1,0 +1,6 @@
+framework module YGTimer {
+  umbrella header "YGTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

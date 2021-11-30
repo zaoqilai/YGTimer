@@ -1,0 +1,16 @@
+PODS:
+  - YGTimer (0.1.0)
+
+DEPENDENCIES:
+  - YGTimer (from `../`)
+
+EXTERNAL SOURCES:
+  YGTimer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YGTimer: 88fb0abd12f03c7717837b61ab5906a9c1aea6a9
+
+PODFILE CHECKSUM: c05181e0f45e15c877efc5adbe35cd01d4efcacc
+
+COCOAPODS: 1.11.2
